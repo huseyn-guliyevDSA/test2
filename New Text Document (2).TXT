@@ -1,3 +1,0 @@
-1) papkani duzeltdik
-2) eleveleri artirdiq (gir add git commit -m)
-3) gonderdik (tandiqdiq, push)
